@@ -41,3 +41,7 @@ int main() {
 - Create an empty file named `output.txt` where your program will write the output.
 - Both templates include file redirection commands inside the `#ifndef ONLINE_JUDGE` block:
 
+## 4. Generate Snippets
+
+- You can create snippets of your customized cpp templates from snippet generator (https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode)
+- Paste your template code in input ans copy the output which must be pasted in snippets tap of vscode, give a unique name to the particular snippet and you are good to go!!
