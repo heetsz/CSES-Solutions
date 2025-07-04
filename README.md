@@ -34,3 +34,10 @@ int main() {
     while(t--) solve();
     return 0;
 }
+```
+## 3. Input And Output Files
+
+- Create a file named `input.txt` in your project folder and put your sample input there.
+- Create an empty file named `output.txt` where your program will write the output.
+- Both templates include file redirection commands inside the `#ifndef ONLINE_JUDGE` block:
+
