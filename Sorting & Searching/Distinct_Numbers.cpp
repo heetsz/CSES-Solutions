@@ -2,6 +2,15 @@
 using namespace std;
 
 void solve(){
+    int n;
+    cin>>n;
+    set<int> hs;
+    vector<int> a(n);
+    for(int i=0;i<n;i++){
+        cin>>a[i];
+        hs.insert(a[i]);
+    }
+    cout << hs.size();
 
 }
 
