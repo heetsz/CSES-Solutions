@@ -74,7 +74,7 @@ const ll MOD = 1e9+7;
 const ll INF = 1e18;
 
  
-#ifndef normal_coder31
+#ifndef maxvoyager
 #define debug(x) cerr << #x<<":"; _print(x); cerr << endl;
 #endif
 
